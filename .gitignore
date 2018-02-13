@@ -57,3 +57,8 @@ typings/
 # dotenv environment variables file
 .env
 
+# Ignore dev file
+.cache
+
+# Ignore build folder
+dist
